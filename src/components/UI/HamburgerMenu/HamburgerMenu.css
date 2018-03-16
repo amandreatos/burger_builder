@@ -1,0 +1,11 @@
+.HamburgerMenu {
+    cursor: pointer;
+}
+
+.HamburgerMenuLine {
+    width: 35px;
+    height: 4px;
+    background-color: #fff;
+    margin: 6px 0;
+    border-radius: 1.5px;
+}
