@@ -9,3 +9,9 @@
     margin: 6px 0;
     border-radius: 1.5px;
 }
+
+@media (min-width: 499px) {
+    .HamburgerMenu {
+      display: none;
+    }
+  }
